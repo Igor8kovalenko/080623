@@ -15,4 +15,5 @@ def capitalize(s):
         if s[i] in ".!?":
             capitalize_next = True
 
+
     return result
