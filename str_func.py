@@ -1,7 +1,7 @@
 def capitalize(s):
     result = ""
     capitalize_next = True
-
+"""реклама"""
     for i in range(len(s)):
         if s[i] == " ":
             result += " "
