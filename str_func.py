@@ -1,5 +1,5 @@
 def capitalize(s):
-"""коммент"""    
+"""коммент88888888"""
   
 result = ""
     capitalize_next = True
@@ -19,7 +19,7 @@ result = ""
 
     return result
 def capitalize_naive_one(sentence: str) -> str:
-    """Capitalizes the first letters and doesn't preserve the spaces"""
+    """комментарий 1"""
 
     words = sentence.split()
 
