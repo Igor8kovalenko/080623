@@ -1,5 +1,5 @@
 def capitalize(s):
-"""коммент95668465235152052"""
+"""коммент88888888"""
   
 result = ""
     capitalize_next = True
@@ -19,7 +19,7 @@ result = ""
 
     return result
 def capitalize_naive_one(sentence: str) -> str:
-    """комментарий 897897891"""
+    """комментарий 1"""
 
     words = sentence.split()
 
