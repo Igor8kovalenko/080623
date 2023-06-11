@@ -1,8 +1,8 @@
 def capitalize(s):
-    result = ""
+"""коммент"""    
+  
+result = ""
     capitalize_next = True
-    """реклама"""
-    """добавил комментарий к функции 2"""
     for i in range(len(s)):
         if s[i] == " ":
             result += " "
