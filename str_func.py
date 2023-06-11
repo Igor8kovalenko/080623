@@ -1,5 +1,5 @@
 def capitalize(s):
-"""коммент88888888"""
+"""коммент245"""
   
 result = ""
     capitalize_next = True
